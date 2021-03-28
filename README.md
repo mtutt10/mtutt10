@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtutt10
+- 👋 Hi, I’m Mike @mtutt10
 - 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on simple projects that can test my begginer level skills in Python
